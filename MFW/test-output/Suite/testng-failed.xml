@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="Test(failed)">
+    <classes>
+      <class name="org.testing.testScripts.TC2_LongPressEvent_APPdemo">
+        <methods>
+          <include name="execution"/>
+        </methods>
+      </class> <!-- org.testing.testScripts.TC2_LongPressEvent_APPdemo -->
+      <class name="org.testing.testScripts.TC1_DragAndDropEvent_APPdemo">
+        <methods>
+          <include name="execution"/>
+        </methods>
+      </class> <!-- org.testing.testScripts.TC1_DragAndDropEvent_APPdemo -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
